@@ -41,6 +41,7 @@ backend/
 └── README.md                             # Documentação do projeto
 
 
+
 frontend/
 ├── src/
 │   ├── components/
@@ -58,6 +59,7 @@ frontend/
 │   ├── types/                          # Definições de tipos TypeScript
 │   ├── constants/                      # Constantes da aplicação
 │   └── styles/                        # Estilos globais
+
 
 3. Como clonar projeto
 git clone https://github.com/Vitorcd20/PlanoDeAcao.git
