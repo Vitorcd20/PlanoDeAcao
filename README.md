@@ -4,6 +4,7 @@ Projeto Plano de Ação  - Java SpringBoot e Vite React - Database: MySql Workbe
 # Plano-de-Ação
 Plano de Acão ( Java springboot  + Vite React )
 
+```
 backend/
 ├── src/
 │   └── main/
@@ -39,9 +40,9 @@ backend/
 │           └── PlanoAcaoControllerTest.java
 ├── pom.xml                               # Gerenciador de dependências Maven
 └── README.md                             # Documentação do projeto
+```
 
-
-
+```
 frontend/
 ├── src/
 │   ├── components/
@@ -59,6 +60,7 @@ frontend/
 │   ├── types/                          # Definições de tipos TypeScript
 │   ├── constants/                      # Constantes da aplicação
 │   └── styles/                        # Estilos globais
+```
 
 
 3. Como clonar projeto
