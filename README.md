@@ -80,6 +80,7 @@ cd Plano-de-Acao
 
 4- Configurar e executar o backend
 Pré-requisitos:
+
 Intellij (ou outro IDE da sua preferência)
 
 Java JDK 21+ 
