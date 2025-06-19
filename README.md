@@ -94,13 +94,11 @@ npm run dev
 
 <h2>Funcionalidas<h2> 
 
-<p>
-1. Exibir os Planos de Ação existentes.
-2. Contagem de planos concluidos.
-3. Criar um Plano de Ação.
-4. Permitir a alteração do título e do objetivo de um plano de ação existente.
-5. Remover um plano de ação do sistema.
-6. remover uma açao do card.
-7. Adicionar ações.
+1. Exibir os Planos de Ação existentes.  
+2. Contagem de planos concluidos.  
+3. Criar um Plano de Ação.  
+4. Permitir a alteração do título e do objetivo de um plano de ação existente.  
+5. Remover um plano de ação do sistema.  
+6. Remover uma ação do card.  
+7. Adicionar ações.  
 8. Transicionar o status das ações.
-</p>
