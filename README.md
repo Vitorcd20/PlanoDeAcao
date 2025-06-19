@@ -63,7 +63,6 @@ frontend/
 │   │   │   │   ├── PlanCard/
 │   │   │   │   ├── PlansList/
 │   │   │   │   └── PlansContext/
-│   │   │   └── dashboard/
 │   ├── pages/                          # Páginas da aplicação
 │   ├── hooks/                          # Hooks customizados
 │   ├── services/                       # Serviços para API
