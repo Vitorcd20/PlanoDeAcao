@@ -75,7 +75,8 @@ frontend/
 
 3. Como clonar projeto
 git clone https://github.com/Vitorcd20/PlanoDeAcao.git
-cd Plano-de-Acao
+
+- Seperar as pastas frontend(vscode) e planodeacao(intellij ou outro)
 
 
 4- Configurar e executar o backend
