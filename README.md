@@ -99,7 +99,7 @@ npm ou yarn
 
 Comandos para rodar:
 
-cd vite-project\vite-project
+cd vite-project\frontend
 npm install
 npm run dev
 
