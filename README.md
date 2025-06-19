@@ -3,14 +3,15 @@ Projeto Plano de Ação  - Java SpringBoot e Vite React - Database: MySql Workbe
 
 <h2>Funcionalides Da Aplicação<h2> 
 
-1. Exibir os Planos de Ação existentes.  
-2. Contagem de planos concluidos.  
-3. Criar um Plano de Ação.  
-4. Permitir a alteração do título e do objetivo de um plano de ação existente.  
-5. Remover um plano de ação do sistema.  
-6. Remover uma ação do card.  
-7. Adicionar ações.  
-8. Transicionar o status das ações.
+1. Exibir os Planos de Ação existentes.
+2. Mudar status do Plano.
+3. Contagem de planos concluidos.  
+4. Criar um Plano de Ação.  
+5. Permitir a alteração do título e do objetivo de um plano de ação existente.  
+6. Remover um plano de ação do sistema.
+7. Adicionar ações. 
+8. Remover uma ação do card.  
+9. Transicionar o status das ações.
 
 ```
 backend/
