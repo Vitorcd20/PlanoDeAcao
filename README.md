@@ -1,5 +1,7 @@
 # PlanoDeAcao
-Projeto Plano de Ação  - Java SpringBoot e Vite React - Database: MySql Workbench
+Projeto Plano de Ação  - Java SpringBoot e Vite React - Database: MySql Workbench  
+
+[Link do vídeo no YouTube](https://www.youtube.com/watch?v=kK3Y4n0qyvc)
 
 <h2>Funcionalides Da Aplicação<h2> 
 
