@@ -90,3 +90,15 @@ Comandos para rodar:
 cd vite-project\vite-project
 npm install
 npm run dev
+
+
+<h2>Funcionalidas<h2> 
+
+1 - Exibir os Planos de Ação existentes.
+2 - Contagem de planos concluidos.
+3. Criar um Plano de Ação.
+4. Permitir a alteração do título e do objetivo de um plano de ação existente.
+5. Remover um plano de ação do sistema.
+6 - remover uma açao do card.
+7. Adicionar ações
+8. Transicionar o status das açõe
